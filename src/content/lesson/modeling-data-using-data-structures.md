@@ -1,6 +1,6 @@
 ---
 title: "Using data-structures to store our business needs"
-subtitle: "It is imposible to software without storing information, its time to practice and master the science behind storage"
+subtitle: "It is imposible to software without storing information, its time to practice and master the science behind storage."
 cover_local: "../../assets/images/e16d59ad-4c11-4ca0-8bfc-5a9d147c6c2e.jpeg"
 textColor: "white"
 status: "unassigned"
